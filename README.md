@@ -1,2 +1,2 @@
 # discord.bot
-just another repo
+This bot is used for auto moderation, giveaway and event purposes!!
