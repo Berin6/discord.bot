@@ -1,2 +1,2 @@
 # discord.bot
-just another repostory
+just another repo
